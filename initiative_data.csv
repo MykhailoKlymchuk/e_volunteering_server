@@ -1,0 +1,5 @@
+id,name,volunteerInitiativeType,requiredAmount,coeffOfNecessity,publicationDate,deadlineDate,strategicImportance,impactOnUsers,deadline,economicEffect,externalFactors
+null,Збір на ліки в Реабілітаційний центр,Медичне забезпечення,1000,0.0,2024-05-31,2024-06-07,0.9,1.0,7.0,142.85714285714286,5.0
+null,Збір на ліки в Реабілітаційний центр,Психологічна підтримка,1000,0.0,2024-05-31,2024-06-07,0.85,1.0,7.0,142.85714285714286,0.0
+null,Education Initiative,Education,1000,0.0,2024-05-31,2024-06-07,1.5,1.0,7.0,142.85714285714286,0.0
+null,Education Initiative,Education,1000,0.0,2024-05-31,2024-06-07,1.5,1.0,7.0,142.85714285714286,0.0
